@@ -1,7 +1,4 @@
 
-Memory updated
-Here's a concise GitHub bio for you:
-
 👋 Hi, I'm Atharva Kamble!
 🎓 Currently pursuing my Master's in Information Technology at Worcester Polytechnic Institute.
 🌍 I hold a Bachelor's in Computer Engineering from India.
