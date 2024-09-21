@@ -9,50 +9,45 @@
 
 ### Cloud ☁️
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify,vercel,heroku" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
 ### DevOps Tools ♾️
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,bash,docker,kubernetes,jenkins,ansible,terraform,apache" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,bash" />
 </p>
 
 ### Databases 📚
 <p>
-  <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,postgres" />
 </p>
 
 ### Machine Learning 🤖🧠💪
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikit,pytorch" />
-</p>
-
-### Testing 🔬✔️
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,selenium,postman" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,seaborn,matplotlib,tensorflow" />
 </p>
 
 ### Backend ⚙️👨‍💻
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nginx,rabbitmq,prisma,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm" />
 </p>
 
 ### Frontend 🖥️👨‍💻
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,redux,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 ### Programming Languages </> 💻
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,py,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,py,c,cpp" />
 </p>
 
 ### IDE's 💻🖥️
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode,anaconda" />
 </p>
 
 ### Operating Systems 🖥️💻
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
