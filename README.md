@@ -33,7 +33,6 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="padding-right: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="padding-right: 10px;" />
-    <img src="https://seaborn.pydata.org/_images/logo-tall.svg" alt="Seaborn" width="50" height="50" style="padding-right: 10px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" style="padding-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="padding-right: 10px;" />
   </p>
