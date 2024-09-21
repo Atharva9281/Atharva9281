@@ -5,49 +5,70 @@
 ☁️ Certified AWS Solutions Architect Associate with a passion for cloud technologies, DevOps, Machine Learning, and Data Engineering.<br/>
 🚀 Always eager to learn, build, and contribute to cutting-edge cloud solutions.<br/>
 
+
 # 💻 Tech Stack
 
-### Cloud ☁️
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-</p>
+<details>
+  <summary><b>Cloud ☁️</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  </p>
+</details>
 
-### DevOps Tools ♾️
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,bash" />
-</p>
+<details>
+  <summary><b>DevOps Tools ♾️</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,bash" />
+  </p>
+</details>
 
-### Databases 📚
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,postgres" />
-</p>
+<details>
+  <summary><b>Databases 📚</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,postgres" />
+  </p>
+</details>
 
-### Machine Learning 🤖🧠💪
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,seaborn,matplotlib,tensorflow" />
-</p>
+<details>
+  <summary><b>Machine Learning 🤖🧠💪</b></summary>
+  <p>
+    <b>Missing Icons:</b> Pandas, NumPy, Seaborn, Matplotlib<br>
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </p>
+</details>
 
-### Backend ⚙️👨‍💻
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm" />
-</p>
+<details>
+  <summary><b>Backend ⚙️👨‍💻</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,npm" />
+  </p>
+</details>
 
-### Frontend 🖥️👨‍💻
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+<details>
+  <summary><b>Frontend 🖥️👨‍💻</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  </p>
+</details>
 
-### Programming Languages </> 💻
-<p>
-  <img src="https://skillicons.dev/icons?i=js,py,c,cpp" />
-</p>
+<details>
+  <summary><b>Programming Languages </> 💻</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,py,c,cpp" />
+  </p>
+</details>
 
-### IDE's 💻🖥️
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,anaconda" />
-</p>
+<details>
+  <summary><b>IDE's 💻🖥️</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda" />
+  </p>
+</details>
 
-### Operating Systems 🖥️💻
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
+<details>
+  <summary><b>Operating Systems 🖥️💻</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
+  </p>
+</details>
+
