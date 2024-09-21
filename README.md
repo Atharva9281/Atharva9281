@@ -31,10 +31,10 @@
 <details>
   <summary><b>Machine Learning 🤖🧠💪</b></summary>
   <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="50" />
-    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50" />
+    <img src="https://matplotlib.org/_static/images/logo2_compressed.svg" alt="Matplotlib" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
   </p>
 </details>
@@ -73,4 +73,3 @@
     <img src="https://skillicons.dev/icons?i=linux,windows" />
   </p>
 </details>
-
